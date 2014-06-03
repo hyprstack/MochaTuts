@@ -7,4 +7,5 @@ _This example was taken from [nelsonic](https://github.com/nelsonic/learn-mocha)
 According to the [Mocha](http://visionmedia.github.io/mocha/#assertions) website:
 >Mocha is a feature-rich Javascript test framework running on nodejs and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on GitHub.
 
+_This repo does not intend to copy every word or line of code from the source, but simply show the main code in the source tutorial from nelsonic._
 
