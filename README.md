@@ -1,3 +1,10 @@
 #Mocha Examples
+===============
 
-This example was taken from [nelsonic](https://github.com/nelsonic/learn-mocha); all credit goes to him for this easy to understand tutorial.
+_This example was taken from [nelsonic](https://github.com/nelsonic/learn-mocha); all credit goes to him for this easy to understand tutorial._**
+*********************************************************************************************************************************************
+
+According to the [Mocha](http://visionmedia.github.io/mocha/#assertions) website:
+>Mocha is a feature-rich Javascript test framework running on nodejs and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on GitHub.
+
+
