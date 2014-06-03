@@ -1,4 +1,3 @@
-```javascript
 var assert = require('assert');  // node module
 var C = require('../cash.js');  // our module
 
@@ -20,4 +19,3 @@ describe('Cash Register', function () {
 		})
 	})
 })
-```javascript
