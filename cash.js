@@ -1,4 +1,3 @@
-```javascript
 //The getChange function is a simple calculator that only performs subtractions. It returns the amount of change split into various
 //notes and coins
 
@@ -33,4 +32,3 @@ var C = {}; //C object simplifies exporting the object - see module.exports = C
 };
 
 module.exports = C; //module.exports is the object that is actually returned as the result of a 'require' call.
-```
